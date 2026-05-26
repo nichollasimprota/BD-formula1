@@ -1,0 +1,11 @@
+# Sistema operacional
+Thumbs.db
+
+# Editor
+.vscode/
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
